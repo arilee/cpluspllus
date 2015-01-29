@@ -1,0 +1,6 @@
+git add *.cc
+git status
+git reset *.out //undo git add
+git status
+git commit -m "first commit"
+git push cplus master
